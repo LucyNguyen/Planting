@@ -1,4 +1,6 @@
-language: swift
 os: osx
+osx_image: xcode9.4
+language: swift
+script: xcodebuild
 xcode_project: Planting.xcodeproj # path to your xcodeproj folder
-xcode_scheme: PlantingTests
+xcode_scheme: Planting

@@ -1,3 +1,4 @@
 language: swift
+os: osx
 xcode_project: Planting.xcodeproj # path to your xcodeproj folder
 xcode_scheme: PlantingTests
